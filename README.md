@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**ecarlos09/ecarlos09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on editing my portfolio website
 - 🌱 I’m currently learning to use React as a front end JavaScript framework!
 - 👯 I’m looking to collaborate on anything really!
