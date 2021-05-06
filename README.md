@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on editing my portfolio website
-- 🌱 I’m currently learning to use React as a front end JavaScript framework!
+- 🌱 I’m currently learning to use Python as a backend
 - 👯 I’m looking to collaborate on anything really!
 - 🤔 I’m looking for help with ... can't limit it to just one thing ... I usually ask for help when I need it though!
 - 💬 Ask me about ... anything!
