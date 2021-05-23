@@ -8,4 +8,4 @@
 - 📫 How to reach me: elwin.carlos09@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlos09)](https://github.com/ecarlos09/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlos09&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlos09&show_icons=true&theme=dracula)
