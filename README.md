@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/8j4XjkB.jpg)
+<img href="https://imgur.com/8j4XjkB"><img src="https://i.imgur.com/8j4XjkB.jpg" title="source: imgur.com" /></img>
 
 ### Hi there 👋
 
